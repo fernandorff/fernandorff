@@ -1,5 +1,5 @@
 <a href="https://www.artstation.com/wronarowicz" target="_blank">
-<img src="https://cdnb.artstation.com/p/assets/images/images/036/927/659/original/piotr-gamingroom6-export.gif?1619008952"/>
+<img src="https://cdnb.artstation.com/p/assets/images/images/036/927/659/original/piotr-gamingroom6-export.gif?1619008952" height="300"/>
   </a>
 
 
