@@ -1,4 +1,4 @@
-<img src="https://64.media.tumblr.com/d4cd2f0c75f255768150f74bd99e9deb/tumblr_nl105ykKsd1qashpbo1_540.gifv" height="150"/>
+<img style="float: right;" src="https://64.media.tumblr.com/d4cd2f0c75f255768150f74bd99e9deb/tumblr_nl105ykKsd1qashpbo1_540.gifv" height="150"/>
 
 <h3 align="left">Hi 👋, I'm Fernando</h3>
 <h4 align="left">and I'm a software developer from Brazil.</h4>
