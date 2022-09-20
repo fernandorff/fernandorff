@@ -8,7 +8,7 @@
 
 ---
 
-- 🔭 I’m currently studying at [CWI Crescer](https://crescer.cwi.com.br/) and Full Stack Software Devlopment at [Estácio](https://estacio.br/cursos/graduacao/desenvolvimento-full-stack)
+- 🔭 I’m currently studying Full Stack Software Development at [Estácio University](https://estacio.br/cursos/graduacao/desenvolvimento-full-stack) and practicing code at [CWI Crescer Bootcamp](https://crescer.cwi.com.br/)
 
 - 🌱 I’m currently learning: **Javascript, Python, Java, ReactJS**
 
