@@ -3,11 +3,12 @@
   </a>
 
 
-<h3 align="left">Hi 👋, I'm Fernando</h3>
-<h4 align="left">and I'm a software developer from Brazil.</h4>
+<h3 align="left">Hello there 👋</h3>
+<h4 align="left">I'm Fernando and I'm a software developer from Brazil.</h4>
 
+---
 
-- 🔭 I’m currently studying at [CWI Crescer](https://crescer.cwi.com.br/)
+- 🔭 I’m currently studying at [CWI Crescer](https://crescer.cwi.com.br/) and Full Stack Software Devlopment at [Estácio](https://estacio.br/cursos/graduacao/desenvolvimento-full-stack)
 
 - 🌱 I’m currently learning: **Javascript, Python, Java, ReactJS**
 
