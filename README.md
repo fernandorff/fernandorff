@@ -4,7 +4,7 @@
 
 
 <h3 align="left">Hello there 👋</h3>
-<h4 align="left">I'm Fernando and I'm a software developer from Brazil.</h4>
+<h4 align="left">My name is Fernando and I'm a software developer from Brazil.</h4>
 
 ---
 
