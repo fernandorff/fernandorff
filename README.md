@@ -1,5 +1,5 @@
-<h3 align="left">Hi 👋, I'm Fernando</h2>
-<h3 align="left">and I'm a software developer from Brazil.</h3>
+<h3 align="left">Hi 👋, I'm Fernando</h3>
+<h4 align="left">and I'm a software developer from Brazil.</h4>
 
 
 - 🔭 I’m currently studying at [CWI Crescer](https://crescer.cwi.com.br/)
