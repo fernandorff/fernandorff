@@ -12,9 +12,9 @@
 
 - 🌱 I’m currently learning: **Javascript, Python, Java, ReactJS**
 
-- 📫 Reach me at: **fernando.rff@yahoo.com, fernandorff92@gmail.com**
+- 📫 Reach me at: **fernando.rff@yahoo.com, fernandorff92@gmail.com or <a href="https://www.linkedin.com/in/fernandorff/" target="_blank">LinkedIn</a>**
 
-- ⚡ Fun fact! **I love food oriented programming! (also known as cooking, haha)**
+- 🍜 Fun fact! **I love Food Oriented Pprogramming! (also known as cooking, haha)**
 
 ---
 
