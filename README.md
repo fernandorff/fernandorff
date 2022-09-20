@@ -1,3 +1,16 @@
+<h2 align="center">Hi 👋, I'm Fernando</h2>
+<h3 align="center">and I'm a software developer from Brazil.</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fernandorff" alt="fernandorff" /></a> </p>
+
+- 🔭 I’m currently studying at [CWI Crescer](https://crescer.cwi.com.br/)
+
+- 🌱 I’m currently learning: **Javascript, Python, Java, ReactJS**
+
+- 📫 Reach me at: **fernando.rff@yahoo.com, fernandorff92@gmail.com**
+
+- ⚡ Fun fact! **I love food oriented programming! (also known as cooking, haha)** :
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=fernandorff" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=fernandorff" height="150" alt="languages graph"  />
