@@ -31,9 +31,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" width="52" alt="xd logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/fernandorff/fernandorff/blob/output/snake.svg" alt="Snake animation" />
-
-###
