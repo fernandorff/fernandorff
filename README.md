@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently studying Full Stack Software Development at [Estácio University](https://estacio.br/cursos/graduacao/desenvolvimento-full-stack) and practicing code at [CWI Crescer Bootcamp](https://crescer.cwi.com.br/)
 
-- 🌱 I’m currently learning: **Javascript, Python, Java, ReactJS and QA**
+- 🌱 I’m currently learning: **Javascript, Java, ReactJS, Angular and SpringBoot**
 
 - 📫 Reach me at: **fernando.rff@yahoo.com, fernandorff92@gmail.com or <a href="https://www.linkedin.com/in/fernandorff/" target="_blank">LinkedIn</a>**
 
-- 🍜 Fun fact! **I love Food Oriented Programming! (also known as cooking, haha)**
+- 🍜 Fun fact! **I love Food Oriented Programming!**
 
 ---
 
