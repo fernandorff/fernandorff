@@ -8,8 +8,6 @@
 
 ---
 
-- 🔭 I’m currently studying Full Stack Software Development at [Estácio University](https://estacio.br/cursos/graduacao/desenvolvimento-full-stack) and practicing code at [CWI Crescer Bootcamp](https://crescer.cwi.com.br/)
-
 - 🌱 I’m currently learning: **Javascript, Java, ReactJS, Angular and SpringBoot**
 
 - 📫 Reach me at: **fernando.rff@yahoo.com, fernandorff92@gmail.com or <a href="https://www.linkedin.com/in/fernandorff/" target="_blank">LinkedIn</a>**
@@ -34,7 +32,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" width="52" alt="angular logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
