@@ -2,9 +2,6 @@
 <img src="https://cdnb.artstation.com/p/assets/images/images/036/927/659/original/piotr-gamingroom6-export.gif?1619008952" height="300"/>
   </a>
 
-
-<h3 align="left">Hello there 👋</h3>
-
 <hr>
 
 <div align="left">
