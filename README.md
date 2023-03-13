@@ -4,16 +4,6 @@
 
 
 <h3 align="left">Hello there 👋</h3>
-<h4 align="left">My name is Fernando and I'm a software developer.</h4>
-
-
-<hr>
-
-- 🌱 I’m currently learning: **Javascript, Java, React, Angular and SpringBoot**
-
-- 📫 Reach me at: **fernando.rff@yahoo.com, fernandorff92@gmail.com or <a href="https://www.linkedin.com/in/fernandorff/" target="_blank">LinkedIn</a>**
-
-- 🍜 Fun fact! **I love Food Oriented Programming!**
 
 <hr>
 
