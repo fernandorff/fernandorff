@@ -17,9 +17,4 @@ spec-driven development), always with human review, automated tests and guardrai
   expenses (split by amount or %, who owes whom, CSV import/export).
   Live: https://home-share-app-xi.vercel.app
 
-## Where most of my work lives
-
-My professional code (state government debt platform, banking integrations) is in private
-company repositories. The CV has the details: https://fernandorffdev.com
-
-[LinkedIn](https://www.linkedin.com/in/fernandorff/) · [CV](https://fernandorffdev.com)
+[LinkedIn](https://www.linkedin.com/in/fernandorff/) · [Portfolio](https://fernandorffdev.com)
