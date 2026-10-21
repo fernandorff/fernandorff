@@ -17,4 +17,6 @@ spec-driven development), always with human review, automated tests and guardrai
   expenses (split by amount or %, who owes whom, CSV import/export).
   Live: https://home-share-app-xi.vercel.app
 
+## Contact me
+
 [LinkedIn](https://www.linkedin.com/in/fernandorff/) · [Portfolio](https://fernandorffdev.com)
