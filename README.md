@@ -14,6 +14,11 @@ spec-driven development), always with human review, automated tests and guardrai
   WebSocket), shared game logic with client-side prediction, Three.js, Vitest, Playwright.
   GitHub Actions CI on every PR, a live copy of the game per PR, auto-deploy on merge.
   Play: https://warlock.fernandorffdev.com
+- **[Dungeon Tactics](https://github.com/fernandorff/dungeon-tactics)**: turn-based tactics
+  game for the browser in the spirit of Final Fantasy Tactics, with dungeon descents.
+  Deterministic rules engine separate from the client, painted 3D maps with Three.js,
+  1,000+ Vitest tests, GitHub Actions CI.
+  Play: https://dungeon-tactics.fernandorffdev.com
 - **[Sinuquinha do Pix](https://github.com/fernandorff/sinuca)**: online 3D pool with
   friends, no sign-up. Deterministic physics so every browser reaches the same result,
   Durable Objects with SQLite and hibernating WebSockets, Three.js, Vitest.
